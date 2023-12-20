@@ -1,0 +1,3 @@
+module timedata
+
+go 1.21.5
